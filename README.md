@@ -1,3 +1,3 @@
 # scheme-rs
 
-A scheme interpreter written in Rust.
+A Scheme interpreter written in Rust.
